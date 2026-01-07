@@ -54,5 +54,98 @@ Principais insights:
 
 <img width="895" height="431" alt="image" src="https://github.com/user-attachments/assets/8fde0a25-dc7a-4e36-b4af-bebac1a02449" />
 
+---
 
+### 3️⃣ Top 15 Países por Quantidade de Empresas Unicórnio
 
+Este gráfico ranqueia os 15 países com maior número de empresas unicórnio.
+
+Principais insights:
+
+• Os Estados Unidos lideram com ampla vantagem.
+
+• China e Índia se destacam como grandes polos fora dos EUA.
+
+---
+
+### 4️⃣ Top 15 Países por Valuation Total de Empresas Unicórnio
+
+Este gráfico mostra os países ordenados pelo valor total combinado de valuation das empresas unicórnio.
+
+Principais insights:
+
+• Os Estados Unidos dominam também em valuation total.
+
+• Alguns países apresentam posição melhor em valuation do que em quantidade, indicando maior concentração de capital.
+
+---
+
+### 5️⃣ Linha do Tempo das Primeiras Empresas Unicórnio
+
+Esta visualização apresenta as primeiras empresas a atingirem o status de unicórnio, organizadas ao longo do tempo e coloridas por país.
+
+Principais insights:
+
+• As primeiras empresas unicórnio surgiram majoritariamente entre 2007 e 2013.
+
+• O gráfico evidencia a diversidade geográfica do início do ecossistema unicórnio.
+
+---
+
+### 6️⃣ Evolução Acumulada de Empresas Unicórnio – Top 5 Cidades
+
+Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao longo do tempo para as 5 principais cidades.
+
+Principais insights:
+
+• Cidades como Beijing, San Francisco e Nova York apresentam forte aceleração após 2015.
+
+• O crescimento evidencia hubs globais de inovação e empreendedorismo.
+
+---
+
+### 7️⃣ Variação Ano a Ano (YoY) do Valuation das Empresas Unicórnio
+
+Este gráfico ilustra a variação anual do valuation total, destacando aumentos e quedas ao longo dos anos.
+
+Principais insights:
+
+• O crescimento do valuation se intensifica a partir de 2016.
+
+• Mesmo com quedas pontuais, o mercado apresenta fortes recuperações.
+
+---
+
+### 8️⃣ Quantidade de Empresas Unicórnio por Ano
+
+Esta visualização apresenta o número de novas empresas unicórnio criadas a cada ano.
+
+Principais insights:
+
+• Observa-se uma forte aceleração após 2018.
+
+• O pico reflete períodos de alta atividade de venture capital.
+
+--- 
+
+### 🛠️ Ferramentas e Tecnologias
+
+• Python
+
+• Pandas – limpeza, transformação e agregação de dados
+
+• Plotly – visualizações interativas
+
+• Streamlit – construção do dashboard
+
+--- 
+
+### 📈 Principais Conclusões
+
+• O crescimento de unicórnios é fortemente concentrado em setores tecnológicos.
+
+• Os Estados Unidos lideram tanto em quantidade quanto em valuation total.
+
+• Algumas cidades se destacam como hubs globais de inovação.
+
+• O ecossistema unicórnio apresentou crescimento acelerado nos últimos anos, especialmente após 2018.
