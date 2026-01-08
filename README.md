@@ -136,6 +136,8 @@ Principais insights:
 
 • O pico reflete períodos de alta atividade de venture capital.
 
+<img width="892" height="487" alt="image" src="https://github.com/user-attachments/assets/b3229011-e264-45f0-8355-976231fdc118" />
+
 --- 
 
 ### 🛠️ Ferramentas e Tecnologias
