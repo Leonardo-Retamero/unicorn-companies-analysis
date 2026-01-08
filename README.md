@@ -190,5 +190,17 @@ df[df['Investors'].isna()]
 df.loc[df['ID'] == 710, 'Investors'] = "Northern Light Venture Capital, Haitong Kaiyuan Investment, Undisclosed Investors"
 
 # Tratando a coluna "Industry" e "Country" corrigindo dados escritos incorretamente
+map_empresas = {
+    'Artificial Intelligence': 'Artificial intelligence',
+    'Finttech': 'Fintech'
+}
 
+df['Industry'] = df['Industry'].replace(map_empresas)
+
+map_pais = {
+    'United States,': 'United States',
+    'Indonesia,': 'Indonesia'
+}
+
+df['Country'] = df['Country'].replace(map_pais)
 ```
