@@ -122,6 +122,8 @@ Principais insights:
 
 • Mesmo com quedas pontuais, o mercado apresenta fortes recuperações.
 
+<img width="897" height="457" alt="image" src="https://github.com/user-attachments/assets/5ee96315-ea6f-46fe-aaf6-d0a663f7b8a7" />
+
 ---
 
 ### 8️⃣ Quantidade de Empresas Unicórnio por Ano
