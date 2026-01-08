@@ -183,4 +183,12 @@ map_cidades = {
 }
 
 df['City'] = df['City'].fillna(df['Country'].map(map_cidades))
+
+# Tratando a coluna "Investors"
+df[df['Investors'].isna()]
+
+df.loc[df['ID'] == 710, 'Investors'] = "Northern Light Venture Capital, Haitong Kaiyuan Investment, Undisclosed Investors"
+
+# Tratando a coluna "Industry" e "Country" corrigindo dados escritos incorretamente
+
 ```
