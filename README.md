@@ -36,7 +36,7 @@ Principais insights:
 
 • Setores fortemente ligados à tecnologia dominam o ecossistema unicórnio.
 
-<img width="894" height="461" alt="image" src="https://github.com/user-attachments/assets/640443d3-95e8-4146-9411-9bc9b6848618" />
+<img width="891" height="545" alt="image" src="https://github.com/user-attachments/assets/406516ca-b168-4fde-ba96-a4aee62a14c6" />
 
 ---
 
@@ -52,7 +52,7 @@ Principais insights:
 
 • O setor de Inteligência Artificial teve uma alta crescente nos últimos anos.
 
-<img width="895" height="431" alt="image" src="https://github.com/user-attachments/assets/8fde0a25-dc7a-4e36-b4af-bebac1a02449" />
+<img width="866" height="535" alt="image" src="https://github.com/user-attachments/assets/5dd0256f-aa1c-42f9-85df-9668efce3cee" />
 
 ---
 
@@ -65,6 +65,8 @@ Principais insights:
 • Os Estados Unidos lideram com ampla vantagem.
 
 • China e Índia se destacam como grandes polos fora dos EUA.
+
+<img width="891" height="508" alt="image" src="https://github.com/user-attachments/assets/af7d110f-f41d-451d-a7c8-788b82e87017" />
 
 ---
 
