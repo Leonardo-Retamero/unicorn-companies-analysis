@@ -164,7 +164,7 @@ Principais insights:
 
 ---
 
-### Limpeza e Tratamendo dos Dados
+### 🎲 Limpeza e Tratamendo de Dados
 
 ```python
 # Renomeando colunas
