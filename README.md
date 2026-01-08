@@ -104,7 +104,7 @@ Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao
 
 Principais insights:
 
-• Cidades como Beijing, San Francisco e Nova York apresentam forte aceleração após 2015.
+• Cidades como Beijing, San Francisco e New York apresentam forte aceleração após 2015.
 
 • O crescimento evidencia hubs globais de inovação e empreendedorismo.
 
