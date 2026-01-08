@@ -161,3 +161,26 @@ Principais insights:
 • Algumas cidades se destacam como hubs globais de inovação.
 
 • O ecossistema unicórnio apresentou crescimento acelerado nos últimos anos, especialmente após 2018.
+
+---
+
+### Limpeza e Tratamendo dos Dados
+
+```python
+# Renomeando colunas
+df = df.rename(columns={'Unnamed: 0': 'ID',
+                   'Select Investors': 'Investors'})
+
+# Analisando missing value
+df.isnull().sum()
+
+# Adicionando Singapore e Hong Kong na coluna "City"
+df[df['City'].isnull()]
+
+map_cidades = {
+    'Singapore': 'Singapore',
+    'Hong Kong': 'Hong Kong'
+}
+
+df['City'] = df['City'].fillna(df['Country'].map(map_cidades))
+```
