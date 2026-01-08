@@ -108,6 +108,8 @@ Principais insights:
 
 • O crescimento evidencia hubs globais de inovação e empreendedorismo.
 
+<img width="929" height="474" alt="image" src="https://github.com/user-attachments/assets/ffef6ca1-3c13-4dad-802e-b81a3cdd81ba" />
+
 ---
 
 ### 7️⃣ Variação Ano a Ano (YoY) do Valuation das Empresas Unicórnio
