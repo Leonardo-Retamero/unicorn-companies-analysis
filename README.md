@@ -80,6 +80,8 @@ Principais insights:
 
 • Alguns países apresentam posição melhor em valuation do que em quantidade, indicando maior concentração de capital.
 
+<img width="914" height="529" alt="image" src="https://github.com/user-attachments/assets/b630078f-47d9-4985-8e25-357fdc246a95" />
+
 ---
 
 ### 5️⃣ Linha do Tempo das Primeiras Empresas Unicórnio
@@ -91,6 +93,8 @@ Principais insights:
 • As primeiras empresas unicórnio surgiram majoritariamente entre 2007 e 2013.
 
 • O gráfico evidencia a diversidade geográfica do início do ecossistema unicórnio.
+
+<img width="911" height="488" alt="image" src="https://github.com/user-attachments/assets/cb939f4e-033f-498e-8d5d-03ac78878552" />
 
 ---
 
