@@ -20,6 +20,10 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 - Carregamento do dataset utilizando Pandas.
 - Utilização da fonte de dados da CB Insights.
 
+### Análise Exploratória (EDA)
+
+Iniciei a Análise Exploratória realizando as seguintes verificações da Qualidade e Estrutura dos Dados:
+
 ---
 
 ### 🧠 Perguntas Respondidas
