@@ -11,6 +11,10 @@ O dashboard foi desenvolvido utilizando Python, Pandas, Plotly e Streamlit, com 
 
 ---
 
+### 📝 Processo de Desenvolvimento
+
+---
+
 ### 🧠 Perguntas Respondidas
 
 • Quais setores concentram o maior número de empresas unicórnio?
