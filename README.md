@@ -13,6 +13,13 @@ O dashboard foi desenvolvido utilizando Python, Pandas, Plotly e Streamlit, com 
 
 ### 📝 Processo de Desenvolvimento
 
+Durante a construção do projeto foram realizadas as seguintes etapas:
+
+### Importação dos dados
+
+- Carregamento do dataset utilizando Pandas.
+- Utilização da fonte de dados da CB Insights.
+
 ---
 
 ### 🧠 Perguntas Respondidas
