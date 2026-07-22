@@ -26,6 +26,7 @@ Iniciei a Análise Exploratória realizando as seguintes verificações da Quali
 
 - Tamanho da base de dados (linhas e colunas).
 - Estrutura do DataFrame e os tipos de dados das colunas.
+- Existência de valores ausentes.
 
 ---
 
