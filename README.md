@@ -24,6 +24,8 @@ Durante a construção do projeto foram realizadas as seguintes etapas:
 
 Iniciei a Análise Exploratória realizando as seguintes verificações da Qualidade e Estrutura dos Dados:
 
+- Tamanho da base de dados (linhas e colunas).
+
 ---
 
 ### 🧠 Perguntas Respondidas
