@@ -45,6 +45,7 @@ Após a etapa de exploração da base de dados, foram realizadas as seguintes tr
 Com a base de dados tratada, foram criados novos atributos para ampliar as possibilidades de análise:
 
 - Criação da coluna Year a partir da coluna Date Joined, facilitando análises temporais.
+- Criação da coluna Continent a partir da coluna Country, permitindo análises geográficas em nível continental.
 
 ---
 
