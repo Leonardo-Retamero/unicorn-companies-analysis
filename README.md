@@ -30,13 +30,12 @@ Iniciei a Análise Exploratória realizando as seguintes verificações da Quali
 
 ### Tratamento dos dados
 
-Após o reconhecimento da base de dados iniciei a limpeza e tratamento dos dados:
+Após a etapa de exploração da base de dados, foram realizadas as seguintes transformações para melhorar a qualidade, consistência e confiabilidade das informações:
 
-- Preenchemento da coluna 'Investors' (investidores) ausentes com informações confirmadas para empresas específicas;
-- Preenchemento dos valores ausentes da coluna 'Country' (País) utilizando a cidade como referência;
-- Preenchemento dos valores ausentes da coluna 'City' (Cidade' utilizando o país como referência;
-- Padronização dos nomes das categorias da coluna 'Industry' (Indústria);
-- Padronização da coluna 'Date Joined' para o tipo datetime;
+- Preenchimento dos valores ausentes da coluna Investors com investidores confirmados por meio da fonte CB Insights.
+- Preenchimento dos valores ausentes da coluna Country utilizando a cidade como referência.
+- Preenchimento dos valores ausentes da coluna City utilizando o país ou a empresa como referência, quando aplicável.
+- Correção de registros com informações de cidade e país invertidas.
 
 ---
 
