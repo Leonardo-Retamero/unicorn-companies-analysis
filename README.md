@@ -33,7 +33,7 @@ Iniciei a Análise Exploratória realizando as seguintes verificações da Quali
 Após o reconhecimento da base de dados iniciei a limpeza e tratamento dos dados:
 
 - Preenchemento da coluna 'Investors' (investidores) ausentes com informações confirmadas para empresas específicas;
-
+- Preenchemento dos valores ausentes da coluna 'Country' (País) utilizando a cidade como referência;
 
 ---
 
