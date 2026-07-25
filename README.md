@@ -40,6 +40,12 @@ Após a etapa de exploração da base de dados, foram realizadas as seguintes tr
 - Conversão da coluna Date Joined para o tipo datetime.
 - Conversão da coluna Valuation ($B) para o tipo float, permitindo a realização de cálculos e agregações.
 
+### Engenharia de Atributos (Feature Engineering)
+
+Com a base de dados tratada, foram criados novos atributos para ampliar as possibilidades de análise:
+
+- Criação da coluna Year a partir da coluna Date Joined, facilitando análises temporais.
+
 ---
 
 ### 🧠 Perguntas Respondidas
