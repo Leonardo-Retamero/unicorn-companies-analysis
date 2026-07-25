@@ -46,7 +46,13 @@ Com a base de dados tratada, foram criados novos atributos para ampliar as possi
 
 - Criação da coluna Year a partir da coluna Date Joined, facilitando análises temporais.
 - Criação da coluna Continent a partir da coluna Country, permitindo análises geográficas em nível continental.
+- Criação de uma tabela auxiliar de investidores, separando múltiplos investidores em registros individuais para possibilitar análises como quantidade de empresas investidas e valuation acumulado por investidor.
 
+### Preparação das Tabelas Analíticas
+
+Para apoiar as análises exploratórias e a construção das visualizações, foram desenvolvidas tabelas agregadas com métricas específicas:
+
+Cidades: quantidade de empresas unicórnio e valuation acumulado das 20 maiores cidades em quantidade de empresas unicórnio.
 ---
 
 ### 🧠 Perguntas Respondidas
