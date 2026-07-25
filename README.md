@@ -28,6 +28,11 @@ Iniciei a Análise Exploratória realizando as seguintes verificações da Quali
 - Estrutura do DataFrame e os tipos de dados das colunas.
 - Existência de valores ausentes.
 
+### Tratamento dos dados
+
+Após o reconhecimento da base de dados iniciei a limpeza e tratamento dos dados:
+
+- Verificação das colunas que poussuía valores ausentes;
 ---
 
 ### 🧠 Perguntas Respondidas
