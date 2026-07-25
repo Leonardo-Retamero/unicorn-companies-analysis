@@ -36,6 +36,8 @@ Após a etapa de exploração da base de dados, foram realizadas as seguintes tr
 - Preenchimento dos valores ausentes da coluna Country utilizando a cidade como referência.
 - Preenchimento dos valores ausentes da coluna City utilizando o país ou a empresa como referência, quando aplicável.
 - Correção de registros com informações de cidade e país invertidas.
+- Padronização dos nomes das categorias da coluna Industry para garantir consistência nas análises.
+- Conversão da coluna Date Joined para o tipo datetime.
 
 ---
 
