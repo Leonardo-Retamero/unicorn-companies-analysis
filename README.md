@@ -52,7 +52,7 @@ Com a base de dados tratada, foram criados novos atributos para ampliar as possi
 
 Para apoiar as análises exploratórias e a construção das visualizações, foram desenvolvidas tabelas agregadas com métricas específicas:
 
-Cidades: quantidade de empresas unicórnio e valuation acumulado das 20 maiores cidades em quantidade de empresas unicórnio.
+- Cidades: quantidade de empresas unicórnio e valuation acumulado das 20 maiores cidades em quantidade de empresas unicórnio.
 
 ---
 
