@@ -32,7 +32,9 @@ Iniciei a Análise Exploratória realizando as seguintes verificações da Quali
 
 Após o reconhecimento da base de dados iniciei a limpeza e tratamento dos dados:
 
-- Verificação das colunas que poussuía valores ausentes;
+- Preenchemento da coluna 'Investors' (investidores) ausentes com informações confirmadas para empresas específicas;
+
+
 ---
 
 ### 🧠 Perguntas Respondidas
