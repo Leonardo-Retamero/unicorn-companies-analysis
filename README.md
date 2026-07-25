@@ -38,6 +38,7 @@ Após a etapa de exploração da base de dados, foram realizadas as seguintes tr
 - Correção de registros com informações de cidade e país invertidas.
 - Padronização dos nomes das categorias da coluna Industry para garantir consistência nas análises.
 - Conversão da coluna Date Joined para o tipo datetime.
+- Conversão da coluna Valuation ($B) para o tipo float, permitindo a realização de cálculos e agregações.
 
 ---
 
