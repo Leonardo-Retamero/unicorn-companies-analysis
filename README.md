@@ -54,6 +54,7 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 
 - Cidades: quantidade de empresas unicórnio e valuation acumulado das 20 maiores cidades em quantidade de empresas unicórnio.
 - Brasil: quantidade de empresas unicórnio e valuation por ano no Brasil.
+- YoY de Empresas: cálculo da variação percentual anual (Year over Year) da quantidade de empresas unicórnio.
 
 ---
 
