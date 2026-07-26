@@ -57,6 +57,7 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 - YoY de Empresas: cálculo da variação percentual anual (Year over Year) da quantidade de empresas unicórnio.
 - YoY de Valuation: cálculo da variação percentual anual do valuation acumulado das empresas unicórnio.
 - Investidores: consolidação da quantidade de empresas investidas e do valuation acumulado associado a cada investidor.
+- Continentes: quantidade de países, quantidade de empresas e o valuation por continente.
 
 ---
 
