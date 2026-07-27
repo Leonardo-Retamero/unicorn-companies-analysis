@@ -76,6 +76,7 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
 
 - Investidores com mais quantidade de empresas investidas não significa estar associados ás empresas com maior valor de mercado.
+- O continente europeu possuí mais países com empresas unicórnio.
 
 ---
 
