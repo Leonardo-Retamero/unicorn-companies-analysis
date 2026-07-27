@@ -64,6 +64,7 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 Durante a análise exploratória e o tratamento da base de dados alguns desafios precisaram ser resolvidos:
 
 - Á busca pela base de dados atualizada de empresas unicórnio.
+- Durante a importação da base de dados ocorreu um erro onde alguns registros da coluna de investidores estavam ausentes, tive que buscar cada empresa que estava com valores ausentes dos investidores e utilizar um filtro em python para preencher esses valores com as respectivas informações dos seus investidores.
 
 ---
 
