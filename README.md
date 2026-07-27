@@ -63,6 +63,8 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 
 Durante a análise exploratória e o tratamento da base de dados alguns desafios precisaram ser resolvidos:
 
+- Á busca pela base de dados atualizada de empresas unicórnio.
+
 ---
 
 ### 🧠 Perguntas Respondidas
