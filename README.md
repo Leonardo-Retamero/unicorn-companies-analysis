@@ -59,6 +59,10 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 - Investidores: consolidação da quantidade de empresas investidas e do valuation acumulado associado a cada investidor.
 - Continentes: quantidade de países, quantidade de empresas e o valuation por continente.
 
+### 💪🏽 Desafios encontrados
+
+Durante a análise exploratória e o tratamento da base de dados alguns desafios precisaram ser resolvidos:
+
 ---
 
 ### 🧠 Perguntas Respondidas
