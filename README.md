@@ -59,6 +59,8 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 - Investidores: consolidação da quantidade de empresas investidas e do valuation acumulado associado a cada investidor.
 - Continentes: quantidade de países, quantidade de empresas e o valuation por continente.
 
+---
+
 ### 💪🏽 Desafios encontrados
 
 Durante a análise exploratória e o tratamento da base de dados alguns desafios precisaram ser resolvidos:
@@ -69,7 +71,15 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 
 ---
 
-### 🧠 Perguntas Respondidas
+### 🧠 Principais Insights
+
+Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
+
+- Investidores com mais quantidade de empresas investidas não significa estar associados ás empresas com maior valor de mercado.
+
+---
+
+### 🎯 Perguntas Respondidas
 
 • Quais setores concentram o maior número de empresas unicórnio?
 
