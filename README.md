@@ -80,6 +80,7 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 - América do Norte é o continente com mais empresas unicórnio, sendo o dobro do segundo colocado.
 - Os Estados Unidos lideram tanto em quantidade de empresas unicórnio quanto em valuation total.
 - San Francisco e New York se destacam como hubs globais de inovação.
+- O ecossistema unicórnio apresentou crescimento acelerado nos últimos anos, especialmente após 2018.
 
 ---
 
