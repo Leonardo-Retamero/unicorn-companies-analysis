@@ -78,6 +78,7 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 - Investidores com mais quantidade de empresas investidas não significa estar associados ás empresas com maior valor de mercado.
 - O continente europeu possuí mais países com empresas unicórnio.
 - América do Norte é o continente com mais empresas unicórnio, sendo o dobro do segundo colocado.
+- Os Estados Unidos lideram tanto em quantidade de empresas unicórnio quanto em valuation total.
 
 ---
 
