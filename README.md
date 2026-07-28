@@ -58,6 +58,7 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 - YoY de Valuation: cálculo da variação percentual anual do valuation acumulado das empresas unicórnio.
 - Investidores: consolidação da quantidade de empresas investidas e do valuation acumulado associado a cada investidor.
 - Continentes: quantidade de países, quantidade de empresas e o valuation por continente.
+- Evolução das Indústrias: analisar a evolução acumulada do número de empresas unicórnio por indústria entre 2020 e 2026, identificando os setores que mais expandiram sua participação ao longo dos últimos anos.
 
 ---
 
