@@ -81,7 +81,7 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 - Os Estados Unidos lideram tanto em quantidade de empresas unicórnio quanto em valuation total.
 - San Francisco e New York se destacam como hubs globais de inovação.
 - O ecossistema unicórnio apresentou crescimento acelerado nos últimos anos, especialmente após 2018.
-- Os setores Enterprise Tech, Industrials, Financial Services, Consumer & Retail e Healthcare & Life Sciences apresentaram o maior crescimento acumulado no número de empresas unicórnio entre 2020 e 2026.
+- Os setores Enterprise Tech, Fintech, Internet Software & Services, Industrials e Financial Services apresentaram o maior crescimento acumulado no número de empresas unicórnio entre 2020 e 2026.
 
 ---
 
