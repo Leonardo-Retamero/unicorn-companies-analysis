@@ -107,6 +107,8 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Quais indústrias mais cresceram nos últimos anos?
 
+• Quais são os maiores grupos de investidores?
+
 ---
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
