@@ -105,6 +105,8 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Qual é a distribuição de empresas unicórnio por continente?
 
+• Quais indústrias mais cresceram nos últimos anos?
+
 ---
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
