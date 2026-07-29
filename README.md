@@ -103,6 +103,8 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Como evoluiu a criação de empresas unicórnio ao longo do tempo?
 
+• Qual é a distribuição de empresas unicórnio por continente?
+
 ---
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
