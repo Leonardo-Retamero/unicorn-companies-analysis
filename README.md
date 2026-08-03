@@ -136,7 +136,7 @@ Principais insights:
 
 • O setor de Inteligência Artificial teve uma alta crescente nos últimos anos.
 
-<img width="866" height="535" alt="image" src="https://github.com/user-attachments/assets/5dd0256f-aa1c-42f9-85df-9668efce3cee" />
+<img width="952" height="512" alt="image" src="https://github.com/user-attachments/assets/a8c49165-22c3-4bcd-a81f-b7d7895df03a" />
 
 ---
 
