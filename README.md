@@ -120,7 +120,7 @@ Principais insights:
 
 • Setores fortemente ligados à tecnologia dominam o ecossistema unicórnio.
 
-<img width="891" height="545" alt="image" src="https://github.com/user-attachments/assets/406516ca-b168-4fde-ba96-a4aee62a14c6" />
+<img width="873" height="529" alt="image" src="https://github.com/user-attachments/assets/8f5a4757-f3ba-474e-84c0-d18ea0bf9752" />
 
 ---
 
