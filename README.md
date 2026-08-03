@@ -164,7 +164,7 @@ Principais insights:
 
 • Alguns países apresentam posição melhor em valuation do que em quantidade, indicando maior concentração de capital.
 
-<img width="914" height="529" alt="image" src="https://github.com/user-attachments/assets/b630078f-47d9-4985-8e25-357fdc246a95" />
+<img width="894" height="515" alt="image" src="https://github.com/user-attachments/assets/85509889-a6f7-4e11-a1f0-221226ae521e" />
 
 ---
 
