@@ -150,7 +150,7 @@ Principais insights:
 
 • China e Índia se destacam como grandes polos fora dos EUA.
 
-<img width="891" height="508" alt="image" src="https://github.com/user-attachments/assets/af7d110f-f41d-451d-a7c8-788b82e87017" />
+<img width="894" height="527" alt="image" src="https://github.com/user-attachments/assets/bbba4101-0002-4995-81af-885b8a743989" />
 
 ---
 
