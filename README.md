@@ -116,7 +116,7 @@ Este gráfico apresenta a quantidade de empresas unicórnio por setor, destacand
 
 Principais insights:
 
-• Fintech e Internet Software & Services lideram em número de empresas.
+• Tecnologia Empresarial, Tecnologia Financeira e Serviços de Internet e Software representam os setores de maior relevância para startups de alto valor de mercado, refletindo a forte demanda global por soluções tecnológicas e digitais voltadas ao ambiente corporativo e ao setor financeiro.
 
 • Setores fortemente ligados à tecnologia dominam o ecossistema unicórnio.
 
