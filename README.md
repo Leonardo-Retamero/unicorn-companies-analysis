@@ -130,7 +130,7 @@ Esta visualização mostra o valor total de valuation (em bilhões de dólares) 
 
 Principais insights:
 
-• O setor de Fintech lidera também em valuation total.
+• O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo a forte demanda por soluções voltadas à transformação digital e à gestão corporativa.
 
 • Alguns setores possuem menos empresas, mas alto valuation médio por companhia.
 
