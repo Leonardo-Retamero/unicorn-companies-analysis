@@ -202,6 +202,8 @@ Principais insights:
 
 - O valuation das empresas unicórnio apresentou forte expansão entre 2017 e 2021, atingindo seu maior crescimento anual em 2021 (+US$ 650 bilhões). Nos anos seguintes, o mercado passou por um período de maior volatilidade e correção dos valuations, refletindo mudanças no cenário econômico global e na dinâmica dos investimentos em startups.
 
+- Entre 2020 e 2021, a aceleração da digitalização impulsionada pela pandemia, o aumento da liquidez global e os recordes de investimentos em Venture Capital favoreceram o crescimento das empresas unicórnio. Já entre 2022 e 2024, o aumento das taxas de juros, a inflação global, a desaceleração econômica e a redução dos investimentos em startups contribuíram para revisões de valuation e maior volatilidade no mercado.
+
 <img width="901" height="405" alt="image" src="https://github.com/user-attachments/assets/6383815c-f660-442b-979d-4a640b0f3826" />
 
 ---
