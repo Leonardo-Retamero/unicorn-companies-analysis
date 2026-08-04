@@ -200,11 +200,9 @@ Este gráfico ilustra a variação anual do valuation total, destacando aumentos
 
 Principais insights:
 
-• O crescimento do valuation se intensifica a partir de 2016.
+- Entre 2017 e 2021, o valuation das empresas unicórnio apresentou um crescimento expressivo, indicando um período de forte expansão do mercado e aumento dos investimentos em startups de alto valor.
 
-• Mesmo com quedas pontuais, o mercado apresenta fortes recuperações.
-
-<img width="897" height="457" alt="image" src="https://github.com/user-attachments/assets/5ee96315-ea6f-46fe-aaf6-d0a663f7b8a7" />
+<img width="901" height="405" alt="image" src="https://github.com/user-attachments/assets/6383815c-f660-442b-979d-4a640b0f3826" />
 
 ---
 
