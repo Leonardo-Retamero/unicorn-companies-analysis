@@ -188,11 +188,9 @@ Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao
 
 Principais insights:
 
-• Cidades como Beijing, San Francisco e New York apresentam forte aceleração após 2015.
+• San Francisco e Nova York apresentam forte crescimento na criação de empresas unicórnio ao longo dos últimos 10 anos, consolidando-se como os principais hubs globais de inovação, tecnologia e empreendedorismo.
 
-• O crescimento evidencia hubs globais de inovação e empreendedorismo.
-
-<img width="929" height="474" alt="image" src="https://github.com/user-attachments/assets/ffef6ca1-3c13-4dad-802e-b81a3cdd81ba" />
+<img width="885" height="445" alt="image" src="https://github.com/user-attachments/assets/1e7a725f-dd0d-4014-945a-5debb2b691be" />
 
 ---
 
