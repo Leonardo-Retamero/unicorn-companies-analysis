@@ -214,11 +214,9 @@ Esta visualização apresenta o número de novas empresas unicórnio criadas a c
 
 Principais insights:
 
-• Observa-se uma forte aceleração após 2018.
+- A criação de empresas unicórnio apresentou crescimento consistente ao longo do período analisado, alcançando seu pico em 2021 com 503 novas empresas. A partir de 2022, observa-se uma desaceleração na formação de novos unicórnios, indicando um ambiente de investimentos mais seletivo e desafiador para startups.
 
-• O pico reflete períodos de alta atividade de venture capital.
-
-<img width="892" height="487" alt="image" src="https://github.com/user-attachments/assets/b3229011-e264-45f0-8355-976231fdc118" />
+<img width="901" height="456" alt="image" src="https://github.com/user-attachments/assets/0b67d6d1-8dd7-4f19-a906-f1c938a9c2eb" />
 
 --- 
 
