@@ -88,25 +88,27 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 ### 🎯 Perguntas Respondidas
 
-• Quais setores concentram o maior número de empresas unicórnio?
+Este projeto busca explorar o ecossistema global de empresas unicórnio por meio de análises exploratórias e visualizações de dados, identificando padrões, tendências e fatores que caracterizam startups de alto valor de mercado. Para isso, foram respondidas as seguintes questões de negócio:
 
-• Quais setores apresentam o maior valor total de valuation?
+- Quais setores concentram o maior número de empresas unicórnio?
 
-• Quais países lideram em quantidade de unicórnios e em valor total?
+- Quais setores apresentam o maior valor total de valuation?
 
-• Quais foram as primeiras empresas a se tornar unicórnio?
+- Quais países lideram em quantidade de unicórnios e em valor total?
 
-• Quais cidades se consolidaram como os principais hubs globais de inovação ao longo dos anos?
+- Quais foram as primeiras empresas a se tornar unicórnio?
 
-• Como o valuation das empresas unicórnio varia ano a ano (YoY)?
+- Quais cidades se consolidaram como os principais hubs globais de inovação ao longo dos anos?
 
-• Como evoluiu a criação de empresas unicórnio ao longo do tempo?
+- Como o valuation das empresas unicórnio varia ano a ano (YoY)?
 
-• Qual é a distribuição de empresas unicórnio por continente?
+- Como evoluiu a criação de empresas unicórnio ao longo do tempo?
 
-• Quais setores mais cresceram nos últimos anos?
+- Qual é a distribuição de empresas unicórnio por continente?
 
-• Quais investidores possuem o maior número de investimentos em empresas unicórnio?
+- Quais setores mais cresceram nos últimos anos?
+
+- Quais investidores possuem o maior número de investimentos em empresas unicórnio?
 
 - Quais cidades concentram o maior número de empresas unicórnio?
 
@@ -118,9 +120,9 @@ Este gráfico apresenta a quantidade de empresas unicórnio por setor, destacand
 
 Principais insights:
 
-• Tecnologia Empresarial, Tecnologia Financeira e Serviços de Internet e Software representam os setores de maior relevância para startups de alto valor de mercado, refletindo a forte demanda global por soluções tecnológicas e digitais voltadas ao ambiente corporativo e ao setor financeiro.
+- Tecnologia Empresarial, Tecnologia Financeira e Serviços de Internet e Software representam os setores de maior relevância para startups de alto valor de mercado, refletindo a forte demanda global por soluções tecnológicas e digitais voltadas ao ambiente corporativo e ao setor financeiro.
 
-• Setores fortemente ligados à tecnologia dominam o ecossistema unicórnio.
+- Setores fortemente ligados à tecnologia dominam o ecossistema unicórnio.
 
 <img width="873" height="529" alt="image" src="https://github.com/user-attachments/assets/8f5a4757-f3ba-474e-84c0-d18ea0bf9752" />
 
@@ -132,11 +134,11 @@ Esta visualização mostra o valor total de valuation (em bilhões de dólares) 
 
 Principais insights:
 
-• O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo a forte demanda por soluções voltadas à transformação digital e à gestão corporativa.
+- O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo a forte demanda por soluções voltadas à transformação digital e à gestão corporativa.
 
-• Alguns setores possuem menos empresas, mas alto valuation médio por companhia.
+- Alguns setores possuem menos empresas, mas alto valuation médio por companhia.
 
-• O setor de Inteligência Artificial teve uma alta crescente nos últimos anos.
+- O setor de Inteligência Artificial teve uma alta crescente nos últimos anos.
 
 <img width="952" height="512" alt="image" src="https://github.com/user-attachments/assets/a8c49165-22c3-4bcd-a81f-b7d7895df03a" />
 
@@ -150,7 +152,7 @@ Principais insights:
 
 - Os Estados Unidos lideram com ampla vantagem, consolidando-se como o principal ecossistema global para a criação e o crescimento de empresas unicórnio.
 
-• China e Índia destacam-se como os principais ecossistemas asiáticos, refletindo o crescimento acelerado de seus mercados de tecnologia e startups.
+- China e Índia destacam-se como os principais ecossistemas asiáticos, refletindo o crescimento acelerado de seus mercados de tecnologia e startups.
 
 <img width="894" height="527" alt="image" src="https://github.com/user-attachments/assets/bbba4101-0002-4995-81af-885b8a743989" />
 
@@ -162,7 +164,7 @@ Este gráfico mostra os países ordenados pelo valor total combinado de valuatio
 
 Principais insights:
 
-• Os Estados Unidos lideram com ampla vantagem em valuation total, reforçando sua posição como o principal mercado global de empresas unicórnio e de geração de valor para startups.
+- Os Estados Unidos lideram com ampla vantagem em valuation total, reforçando sua posição como o principal mercado global de empresas unicórnio e de geração de valor para startups.
 
 - China e Reino Unido ocupam as posições seguintes, demonstrando que esses países concentram empresas unicórnio de elevado valor de mercado, mesmo com um número inferior de empresas em relação aos Estados Unidos.
 
@@ -194,7 +196,7 @@ Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao
 
 Principais insights:
 
-• San Francisco e New York apresentam forte crescimento na criação de empresas unicórnio ao longo dos últimos 10 anos, consolidando-se como os principais hubs globais de inovação, tecnologia e empreendedorismo.
+- San Francisco e New York apresentam forte crescimento na criação de empresas unicórnio ao longo dos últimos 10 anos, consolidando-se como os principais hubs globais de inovação, tecnologia e empreendedorismo.
 
 <img width="885" height="445" alt="image" src="https://github.com/user-attachments/assets/1e7a725f-dd0d-4014-945a-5debb2b691be" />
 
@@ -228,10 +230,10 @@ Principais insights:
 
 ### 🛠️ Ferramentas e Tecnologias
 
-• Python
-
-• Pandas – limpeza, transformação e agregação de dados
-
-• Plotly – visualizações interativas
-
-• Streamlit – construção do dashboard
+- **Python** – linguagem principal utilizada no desenvolvimento do projeto.
+- **Pandas** – limpeza, tratamento, transformação e preparação dos dados.
+- **Matplotlib** – criação de gráficos para a Análise Exploratória de Dados (EDA).
+- **Seaborn** – visualizações estatísticas durante a exploração dos dados.
+- **Plotly** – desenvolvimento das visualizações interativas do dashboard.
+- **Streamlit** – construção e disponibilização do dashboard interativo.
+- **GitHub** – documentação, versionamento e publicação do projeto.
