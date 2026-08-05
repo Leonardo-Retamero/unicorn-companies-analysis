@@ -166,6 +166,8 @@ Principais insights:
 
 - China e Reino Unido ocupam as posições seguintes, demonstrando que esses países concentram empresas unicórnio de elevado valor de mercado, mesmo com um número inferior de empresas em relação aos Estados Unidos.
 
+- A comparação com o ranking de quantidade de empresas mostra que alguns países possuem menos unicórnios, porém com valuations médios mais elevados, refletindo maior concentração de capital e empresas de alto valor de mercado.
+
 <img width="894" height="515" alt="image" src="https://github.com/user-attachments/assets/85509889-a6f7-4e11-a1f0-221226ae521e" />
 
 ---
