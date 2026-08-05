@@ -274,6 +274,8 @@ Principais insights:
 
 Esta visualização apresenta as cidades que concentram o maior número de empresas unicórnio, evidenciando os principais hubs globais de inovação e empreendedorismo tecnológico.
 
+Principais insights:
+
 - San Francisco lidera o ranking com ampla vantagem, consolidando-se como o principal polo mundial de startups de alto valor de mercado, impulsionado pelo ecossistema do Vale do Silício.
 
 - New York ocupa a segunda posição, reforçando a liderança dos Estados Unidos como o país que concentra os principais centros globais de inovação e Venture Capital.
