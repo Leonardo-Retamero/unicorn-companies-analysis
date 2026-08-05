@@ -108,6 +108,8 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Quais investidores possuem o maior número de investimentos em empresas unicórnio?
 
+- Quais cidades concentram o maior número de empresas unicórnio?
+
 ---
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
