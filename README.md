@@ -276,6 +276,12 @@ Esta visualização apresenta as cidades que concentram o maior número de empre
 
 - San Francisco lidera o ranking com ampla vantagem, consolidando-se como o principal polo mundial de startups de alto valor de mercado, impulsionado pelo ecossistema do Vale do Silício.
 
+- New York ocupa a segunda posição, reforçando a liderança dos Estados Unidos como o país que concentra os principais centros globais de inovação e Venture Capital.
+
+- Beijing, Shanghai e Shenzhen demonstram a força do ecossistema chinês de startups, posicionando a China como a principal potência tecnológica fora dos Estados Unidos.
+
+- A forte concentração de empresas unicórnio em poucas cidades demonstra que ecossistemas maduros, com acesso a capital de risco, talentos qualificados e infraestrutura tecnológica, desempenham papel fundamental no surgimento de startups de alto valor de mercado.
+
 <img width="931" height="458" alt="image" src="https://github.com/user-attachments/assets/3c374952-0cc9-47f5-a76d-166e870e91ac" />
 
 ---
