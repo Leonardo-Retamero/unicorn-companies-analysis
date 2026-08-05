@@ -104,7 +104,7 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Qual é a distribuição de empresas unicórnio por continente?
 
-• Quais indústrias mais cresceram nos últimos anos?
+• Quais setores mais cresceram nos últimos anos?
 
 • Quais são os maiores grupos de investidores?
 
@@ -177,6 +177,8 @@ Principais insights:
 - As primeiras empresas unicórnio surgiram entre 2007 e 2013, marcando o início da consolidação do ecossistema global de startups de alto valor de mercado.
 
 - Embora os Estados Unidos tenham liderado esse movimento, o surgimento de empresas na França, China, Suécia e Hong Kong demonstra que o ecossistema unicórnio começou a se desenvolver em diferentes regiões do mundo desde seus primeiros anos.
+
+- Os Estados Unidos concentraram a maior parte das primeiras empresas unicórnio, consolidando sua posição como principal polo mundial de inovação, tecnologia e empreendedorismo.
 
 <img width="873" height="459" alt="image" src="https://github.com/user-attachments/assets/0ba21343-a17e-4ea6-8510-19e94289c0d2" />
 
