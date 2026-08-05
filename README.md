@@ -248,7 +248,7 @@ Esta visualização apresenta os 5 setores de empresas unicórnio que mais cresc
 
 Principais insights:
 
-- O setor de Tecnologia Empresarial (Enterprise Tech) apresentou o crescimento mais acelerado do período, consolidando-se como o principal segmento na criação de novas empresas unicórnio.
+- A partir de 2022, observa-se uma maior concentração de novos unicórnios em Tecnologia Empresarial, indicando uma mudança gradual no foco dos investimentos para soluções voltadas ao mercado corporativo, automação e inteligência artificial.
 
 - Os setores de Tecnologia Financeira (Fintech) e Software & Serviços de Internet apresentaram rápida expansão no início do período, impulsionados pela aceleração da transformação digital durante a pandemia.
 
