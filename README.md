@@ -174,11 +174,9 @@ Esta visualização apresenta as primeiras empresas a atingirem o status de unic
 
 Principais insights:
 
-• As primeiras empresas unicórnio surgiram majoritariamente entre 2007 e 2013.
+- As primeiras empresas unicórnio surgiram entre 2007 e 2013, marcando o início da consolidação do ecossistema global de startups de alto valor de mercado.
 
-• O gráfico evidencia a diversidade geográfica do início do ecossistema unicórnio.
-
-<img width="911" height="488" alt="image" src="https://github.com/user-attachments/assets/cb939f4e-033f-498e-8d5d-03ac78878552" />
+<img width="873" height="459" alt="image" src="https://github.com/user-attachments/assets/0ba21343-a17e-4ea6-8510-19e94289c0d2" />
 
 ---
 
