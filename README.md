@@ -164,6 +164,8 @@ Principais insights:
 
 • Os Estados Unidos lideram com ampla vantagem em valuation total, reforçando sua posição como o principal mercado global de empresas unicórnio e de geração de valor para startups.
 
+- China e Reino Unido ocupam as posições seguintes, demonstrando que esses países concentram empresas unicórnio de elevado valor de mercado, mesmo com um número inferior de empresas em relação aos Estados Unidos.
+
 <img width="894" height="515" alt="image" src="https://github.com/user-attachments/assets/85509889-a6f7-4e11-a1f0-221226ae521e" />
 
 ---
