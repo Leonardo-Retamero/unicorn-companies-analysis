@@ -77,7 +77,7 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
 
 - Investidores com mais quantidade de empresas investidas não significa estar associados ás empresas com maior valor de mercado.
-- O continente europeu possuí mais países com empresas unicórnio.
+- A Europa reúne o maior número de países com empresas unicórnio, indicando uma distribuição mais equilibrada das oportunidades de inovação no continente.
 - América do Norte é o continente com mais empresas unicórnio, sendo o dobro do segundo colocado.
 - Os Estados Unidos lideram tanto em quantidade de empresas unicórnio quanto em valuation total.
 - San Francisco e New York se destacam como hubs globais de inovação.
@@ -227,6 +227,16 @@ Principais insights:
 <img width="901" height="456" alt="image" src="https://github.com/user-attachments/assets/0b67d6d1-8dd7-4f19-a906-f1c938a9c2eb" />
 
 --- 
+
+### 9️⃣ Quantidade de Empresas Unicórnio por Continente 
+
+- A América do Norte concentra a maior quantidade de empresas unicórnio, destacando-se como o principal ecossistema global de empresas unicórnio.
+
+- A distribuição geográfica das empresas unicórnio revela uma forte concentração em regiões com ecossistemas de inovação consolidados, elevada disponibilidade de capital de risco (Venture Capital) e mercados de tecnologia mais maduros.
+
+<img width="878" height="514" alt="image" src="https://github.com/user-attachments/assets/1b8131a4-2f8c-4684-a864-c554d691a9bc" />
+
+---
 
 ### 🛠️ Ferramentas e Tecnologias
 
