@@ -96,7 +96,7 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 • Quais foram as primeiras empresas a se tornar unicórnio?
 
-• Qual o crescimento acumulado das cidades com mais empresas unicórnio?
+• Quais cidades se consolidaram como os principais hubs globais de inovação ao longo dos anos?
 
 • Como o valuation das empresas unicórnio varia ano a ano (YoY)?
 
