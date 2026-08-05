@@ -250,6 +250,8 @@ Principais insights:
 
 - O setor de Tecnologia Empresarial (Enterprise Tech) apresentou o crescimento mais acelerado do período, consolidando-se como o principal segmento na criação de novas empresas unicórnio.
 
+- Os setores de Tecnologia Financeira (Fintech) e Software & Serviços de Internet apresentaram rápida expansão no início do período, impulsionados pela aceleração da transformação digital durante a pandemia.
+
 <img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/d35db56b-0804-4e72-b2fa-9b9825bd91b3" />
 
 ---
