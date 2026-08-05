@@ -270,6 +270,16 @@ Principais insights:
 
 ---
 
+### 1️⃣2️⃣ Top 10 Cidades com Maior Número de Empresas Unicórnio
+
+Esta visualização apresenta as cidades que concentram o maior número de empresas unicórnio, evidenciando os principais hubs globais de inovação e empreendedorismo tecnológico.
+
+- San Francisco lidera o ranking com ampla vantagem, consolidando-se como o principal polo mundial de startups de alto valor de mercado, impulsionado pelo ecossistema do Vale do Silício.
+
+<img width="931" height="458" alt="image" src="https://github.com/user-attachments/assets/3c374952-0cc9-47f5-a76d-166e870e91ac" />
+
+---
+
 ### 🛠️ Ferramentas e Tecnologias
 
 - **Python** – linguagem principal utilizada no desenvolvimento do projeto.
