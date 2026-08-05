@@ -176,6 +176,8 @@ Principais insights:
 
 - As primeiras empresas unicórnio surgiram entre 2007 e 2013, marcando o início da consolidação do ecossistema global de startups de alto valor de mercado.
 
+- Embora os Estados Unidos tenham liderado esse movimento, o surgimento de empresas na França, China, Suécia e Hong Kong demonstra que o ecossistema unicórnio começou a se desenvolver em diferentes regiões do mundo desde seus primeiros anos.
+
 <img width="873" height="459" alt="image" src="https://github.com/user-attachments/assets/0ba21343-a17e-4ea6-8510-19e94289c0d2" />
 
 ---
