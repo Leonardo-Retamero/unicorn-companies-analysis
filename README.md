@@ -162,9 +162,7 @@ Este gráfico mostra os países ordenados pelo valor total combinado de valuatio
 
 Principais insights:
 
-• Os Estados Unidos dominam também em valuation total.
-
-• Alguns países apresentam posição melhor em valuation do que em quantidade, indicando maior concentração de capital.
+• Os Estados Unidos lideram com ampla vantagem em valuation total, reforçando sua posição como o principal mercado global de empresas unicórnio e de geração de valor para startups.
 
 <img width="894" height="515" alt="image" src="https://github.com/user-attachments/assets/85509889-a6f7-4e11-a1f0-221226ae521e" />
 
