@@ -256,6 +256,20 @@ Principais insights:
 
 ---
 
+### 1️⃣1️⃣ Top 10 Investidores por Quantidade de Empresas
+
+Esta visualização apresenta os investidores com o maior número de participações em empresas unicórnio, evidenciando os principais atores do ecossistema global de Venture Capital.
+
+Principais insights:
+
+- Andreessen Horowitz, Accel e Sequoia Capital lideram o ranking, demonstrando forte presença no financiamento de startups de alto potencial de crescimento.
+
+- A predominância desses investidores demonstra que empresas unicórnio tendem a atrair capital de fundos experientes, que oferecem não apenas recursos financeiros, mas também conhecimento estratégico, networking e suporte ao crescimento das empresas.
+
+<img width="896" height="496" alt="image" src="https://github.com/user-attachments/assets/6c6ca7fe-3d14-4dbb-9db3-7e456a943c0f" />
+
+---
+
 ### 🛠️ Ferramentas e Tecnologias
 
 - **Python** – linguagem principal utilizada no desenvolvimento do projeto.
