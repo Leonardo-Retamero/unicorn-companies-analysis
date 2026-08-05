@@ -232,11 +232,25 @@ Principais insights:
 
 Esta visualização apresenta a distribuição das empresas unicórnio entre os continentes: América do Norte, América do Sul, América Central, Europa, Ásia, África e Oceania.
 
+Principais insights:
+
 - A América do Norte concentra a maior quantidade de empresas unicórnio, destacando-se como o principal ecossistema global de empresas unicórnio.
 
 - A distribuição geográfica das empresas unicórnio revela uma forte concentração em regiões com ecossistemas de inovação consolidados, elevada disponibilidade de capital de risco (Venture Capital) e mercados de tecnologia mais maduros.
 
 <img width="878" height="514" alt="image" src="https://github.com/user-attachments/assets/1b8131a4-2f8c-4684-a864-c554d691a9bc" />
+
+---
+
+### 🔟 Evolução Acumulada dos 5 Principais Setores de Empresas Unicórnio
+
+Esta visualização apresenta os 5 setores de empresas unicórnio que mais cresceram nos últimos anos.
+
+Principais insights:
+
+- O setor de Tecnologia Empresarial (Enterprise Tech) apresentou o crescimento mais acelerado do período, consolidando-se como o principal segmento na criação de novas empresas unicórnio.
+
+<img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/d35db56b-0804-4e72-b2fa-9b9825bd91b3" />
 
 ---
 
