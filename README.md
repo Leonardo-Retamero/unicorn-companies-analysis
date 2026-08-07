@@ -84,6 +84,23 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 
 ---
 
+### ✔️ Competências Demonstradas
+
+- Python para Análise de Dados
+- Pandas
+- Data Cleaning
+- Data Wrangling
+- Análise Exploratória de Dados (EDA)
+- Feature Engineering
+- Agregação e transformação de dados
+- Análise temporal e YoY
+- Análise geográfica
+- Data Visualization
+- Storytelling com Dados
+- Desenvolvimento de Dashboards
+
+---
+
 ### 🧠 Principais Insights
 
 Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
