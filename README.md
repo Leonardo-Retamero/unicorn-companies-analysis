@@ -7,6 +7,7 @@ Este projeto apresenta um dashboard analítico focado em empresas unicórnio glo
 O dashboard foi desenvolvido utilizando Python, Pandas, Plotly e Streamlit, com foco em visualizações interativas, clareza na comunicação dos dados e geração de insights de negócio.
 
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://unicorn-companies-analysis.streamlit.app/)
+### ⛲ [Fonte de Dados: CB Insights](https://www.cbinsights.com/research-unicorn-companies?)
 
 ---
 
