@@ -11,6 +11,10 @@ O dashboard foi desenvolvido utilizando Python, Pandas, Plotly e Streamlit, com 
 
 ---
 
+### 📊 Dataset
+
+A base utilizada contém informações sobre empresas privadas que atingiram valuation de pelo menos US$ 1 bilhão, incluindo empresa, valuation, data de entrada no grupo de unicórnios, país, cidade, indústria e investidores.
+
 ### 📝 Processo de Desenvolvimento
 
 Durante a construção do projeto foram realizadas as seguintes etapas:
