@@ -23,6 +23,34 @@ Período: 2007–2026
 
 ---
 
+### 🎯 Perguntas Respondidas
+
+Este projeto busca explorar o ecossistema global de empresas unicórnio por meio de análises exploratórias e visualizações de dados, identificando padrões, tendências e fatores que caracterizam startups de alto valor de mercado. Para isso, foram respondidas as seguintes questões de negócio:
+
+- Quais setores concentram o maior número de empresas unicórnio?
+
+- Quais setores apresentam o maior valor total de valuation?
+
+- Quais países lideram em quantidade de unicórnios e em valor total?
+
+- Quais foram as primeiras empresas a se tornar unicórnio?
+
+- Quais cidades se consolidaram como os principais hubs globais de inovação ao longo dos anos?
+
+- Como o valuation das empresas unicórnio varia ano a ano (YoY)?
+
+- Como evoluiu a criação de empresas unicórnio ao longo do tempo?
+
+- Qual é a distribuição de empresas unicórnio por continente?
+
+- Quais setores mais cresceram nos últimos anos?
+
+- Quais investidores possuem o maior número de investimentos em empresas unicórnio?
+
+- Quais cidades concentram o maior número de empresas unicórnio?
+
+---
+
 ### 📝 Processo de Desenvolvimento
 
 Durante a construção do projeto foram realizadas as seguintes etapas:
@@ -112,34 +140,6 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 - San Francisco e New York se destacam como hubs globais de inovação.
 - O ecossistema unicórnio apresentou crescimento acelerado nos últimos anos, especialmente após 2018.
 - Os setores Enterprise Tech, Fintech, Internet Software & Services, Industrials e Financial Services apresentaram o maior crescimento acumulado no número de empresas unicórnio entre 2020 e 2026.
-
----
-
-### 🎯 Perguntas Respondidas
-
-Este projeto busca explorar o ecossistema global de empresas unicórnio por meio de análises exploratórias e visualizações de dados, identificando padrões, tendências e fatores que caracterizam startups de alto valor de mercado. Para isso, foram respondidas as seguintes questões de negócio:
-
-- Quais setores concentram o maior número de empresas unicórnio?
-
-- Quais setores apresentam o maior valor total de valuation?
-
-- Quais países lideram em quantidade de unicórnios e em valor total?
-
-- Quais foram as primeiras empresas a se tornar unicórnio?
-
-- Quais cidades se consolidaram como os principais hubs globais de inovação ao longo dos anos?
-
-- Como o valuation das empresas unicórnio varia ano a ano (YoY)?
-
-- Como evoluiu a criação de empresas unicórnio ao longo do tempo?
-
-- Qual é a distribuição de empresas unicórnio por continente?
-
-- Quais setores mais cresceram nos últimos anos?
-
-- Quais investidores possuem o maior número de investimentos em empresas unicórnio?
-
-- Quais cidades concentram o maior número de empresas unicórnio?
 
 ---
 
