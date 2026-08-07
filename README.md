@@ -197,7 +197,7 @@ Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao
 
 Principais insights:
 
-- San Francisco e New York apresentam forte crescimento na criação de empresas unicórnio ao longo dos últimos 10 anos, consolidando-se como os principais hubs globais de inovação, tecnologia e empreendedorismo.
+- San Francisco concentra 245 empresas unicórnio, quase 73% mais que New York, segunda colocada com 142 empresas, consolidando-se como o principal hub do ecossistema analisado.
 
 <img width="885" height="445" alt="image" src="https://github.com/user-attachments/assets/1e7a725f-dd0d-4014-945a-5debb2b691be" />
 
