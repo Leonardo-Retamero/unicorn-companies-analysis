@@ -25,7 +25,7 @@ Período: 2007–2026
 
 ### 🎯 Perguntas Respondidas
 
-Este projeto busca explorar o ecossistema global de empresas unicórnio por meio de análises exploratórias e visualizações de dados, identificando padrões, tendências e fatores que caracterizam startups de alto valor de mercado. Para isso, foram respondidas as seguintes questões de negócio:
+Este projeto busca explorar o ecossistema global de empresas unicórnio por meio de análises exploratórias e visualizações de dados, identificando padrões, tendências, crescimento e concentração dessas empresas. Para isso, foram respondidas as seguintes questões de negócio:
 
 - Quais setores concentram o maior número de empresas unicórnio?
 
