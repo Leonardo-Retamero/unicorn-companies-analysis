@@ -188,9 +188,9 @@ Principais insights:
 
 ### 4️⃣ Top 15 Países por Valuation Total de Empresas Unicórnio
 
-Este gráfico mostra os países ordenados pelo valor total combinado de valuation das empresas unicórnio.
+**🎯 Objetivo da análise:** Comparar os países segundo o valuation agregado de suas empresas unicórnio e avaliar a concentração de valor entre os principais mercados.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - Os Estados Unidos lideram com ampla vantagem em valuation total, reforçando sua posição como o principal mercado global de empresas unicórnio e de geração de valor para startups.
 
