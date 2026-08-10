@@ -174,9 +174,9 @@ Principais insights:
 
 ### 3️⃣ Top 15 Países por Quantidade de Empresas Unicórnio
 
-Este gráfico apresenta os 15 países com o maior número de empresas unicórnio.
+**🎯 Objetivo da análise:** Identificar os países que concentram o maior número de empresas unicórnio e comparar a representatividade dos principais ecossistemas nacionais.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - Os Estados Unidos lideram com ampla vantagem, consolidando-se como o principal ecossistema global para a criação e o crescimento de empresas unicórnio.
 
