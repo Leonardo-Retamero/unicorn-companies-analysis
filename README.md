@@ -220,11 +220,11 @@ Principais insights:
 
 ### 6️⃣ Evolução Acumulada de Empresas Unicórnio – Top 5 Cidades
 
-Analisar como a concentração de unicórnios evoluiu ao longo do tempo nas principais cidades.
+**🎯 Objetivo da análise:** Analisar como a concentração de unicórnios evoluiu ao longo do tempo nas principais cidades.
 
-Principais insights:
+**🧠 Principais insights:**
 
-- San Francisco concentra 245 empresas unicórnio, quase 73% mais que New York, segunda colocada com 142 empresas, consolidando-se como o principal hub do ecossistema analisado.
+- San Francisco e Nova York apresentam forte crescimento na criação de empresas unicórnio ao longo do período analisado, consolidando-se como os principais hubs globais de inovação, tecnologia e empreendedorismo.
 
 <img width="885" height="445" alt="image" src="https://github.com/user-attachments/assets/1e7a725f-dd0d-4014-945a-5debb2b691be" />
 
