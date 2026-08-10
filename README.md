@@ -129,9 +129,9 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 
 ---
 
-### 🧠 Principais Insights
+### 🧠 Principais Insights da Análise Exploratória
 
-Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
+Após a análise exploratória foi possível encontrar insights relevantes:
 
 - A Europa reúne o maior número de países com empresas unicórnio, indicando uma distribuição mais equilibrada das oportunidades de inovação no continente.
 - América do Norte é o continente com mais empresas unicórnio, sendo o dobro do segundo colocado.
