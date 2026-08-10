@@ -258,9 +258,9 @@ Principais insights:
 
 ### 9️⃣ Quantidade de Empresas Unicórnio por Continente
 
-Esta visualização apresenta a distribuição das empresas unicórnio entre os continentes: América do Norte, América do Sul, América Central, Europa, Ásia, África e Oceania.
+**🎯 Objetivo da análise:** Examinar a distribuição e avaliar o nível de concentração regional das empresas unicórnio entre os continentes: América do Norte, América do Sul, América Central, Europa, Ásia, África e Oceania.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - A América do Norte concentra a maior quantidade de empresas unicórnio, destacando-se como o principal ecossistema global de empresas unicórnio.
 
