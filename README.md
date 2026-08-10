@@ -272,11 +272,11 @@ Principais insights:
 
 ### 🔟 Evolução Acumulada dos 5 Principais Setores de Empresas Unicórnio
 
-Esta visualização apresenta os 5 setores de empresas unicórnio que mais cresceram nos últimos anos.
+**🎯 Objetivo da análise:** Acompanhar a evolução dos principais setores nos últimos anos e avaliar quais apresentaram maior expansão no número acumulado de empresas unicórnio.
 
-Principais insights:
+**🧠 Principais insights:**
 
-- A partir de 2022, observa-se uma maior concentração de novos unicórnios em Tecnologia Empresarial, indicando uma mudança gradual no foco dos investimentos para soluções voltadas ao mercado corporativo, automação e inteligência artificial.
+- A partir de 2022, observa-se uma maior concentração de novos unicórnios em Tecnologia Empresarial, indicando uma mudança gradual no foco dos investimentos para soluções voltadas ao mercado corporativo.
 
 - Os setores de Tecnologia Financeira (Fintech) e Software & Serviços de Internet apresentaram rápida expansão no início do período, impulsionados pela aceleração da transformação digital durante a pandemia.
 
