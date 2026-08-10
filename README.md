@@ -246,9 +246,9 @@ Principais insights:
 
 ### 8️⃣ Quantidade de Empresas Unicórnio por Ano
 
-Esta visualização apresenta o número de novas empresas unicórnio criadas a cada ano.
+**🎯 Objetivo da análise:** Analisar a evolução anual do surgimento de novas empresas unicórnio e identificar períodos de maior crescimento ou desaceleração.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - O recorde de empresas unicórnio em 2021 foi impulsionado pela transformação digital acelerada na pandemia, pela liquidez global e pelo volume histórico de aportes em Venture Capital. A partir de 2022, esse cenário reverteu, a inflação global e a consequente alta dos juros encareceram o crédito e reduziram o capital disponível. Isso desacelerou o mercado de startups e encolheu o surgimento de novas empresas avaliadas acima de US$ 1 bilhão.
 
