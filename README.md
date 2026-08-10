@@ -232,9 +232,9 @@ Principais insights:
 
 ### 7️⃣ Variação Ano a Ano (YoY) do Valuation das Empresas Unicórnio
 
-Este gráfico ilustra a variação anual do valuation total, destacando aumentos e quedas ao longo dos anos.
+**🎯 Objetivo da análise:** Avaliar as variações anuais do valuation agregado das empresas unicórnio e identificar períodos de maior expansão ou retração.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - O valuation das empresas unicórnio apresentou forte expansão entre 2017 e 2021, atingindo seu maior crescimento anual em 2021 (+US$ 650 bilhões). Nos anos seguintes, o mercado passou por um período de maior volatilidade e correção dos valuations, refletindo mudanças no cenário econômico global e na dinâmica dos investimentos em startups.
 
