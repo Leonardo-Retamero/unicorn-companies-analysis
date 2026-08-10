@@ -133,7 +133,6 @@ Durante a análise exploratória e o tratamento da base de dados alguns desafios
 
 Após a análise exploratória e a construção do dashboard foi possível encontrar insights relevantes:
 
-- Investidores com mais quantidade de empresas investidas não significa estar associados ás empresas com maior valor de mercado.
 - A Europa reúne o maior número de países com empresas unicórnio, indicando uma distribuição mais equilibrada das oportunidades de inovação no continente.
 - América do Norte é o continente com mais empresas unicórnio, sendo o dobro do segundo colocado.
 - Os Estados Unidos lideram tanto em quantidade de empresas unicórnio quanto em valuation total.
