@@ -158,9 +158,9 @@ Principais insights:
 
 ### 2️⃣ Distribuição de Valuation Total por Setor
 
-Esta visualização mostra o valor total de valuation (em bilhões de dólares) agregado por setor.
+**🎯 Objetivo da análise:** Comparar o valuation dos diferentes setores e avaliar onde está concentrada a maior parcela de valor.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo um forte valor por soluções voltadas à transformação digital e à gestão corporativa.
 
