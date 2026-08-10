@@ -144,9 +144,9 @@ Após a análise exploratória e a construção do dashboard foi possível encon
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
 
-Este gráfico apresenta a quantidade de empresas unicórnio por setor, destacando onde há maior concentração dessas empresas.
+**🎯 Objetivo da análise:** Analisar a distribuição das empresas unicórnio entre os diferentes setores e identificar aqueles que concentram a maior quantidade de empresas.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - Tecnologia Empresarial, Tecnologia Financeira e Serviços de Internet e Software representam os setores de maior relevância para startups de alto valor de mercado, refletindo a forte demanda global por soluções tecnológicas e digitais voltadas ao ambiente corporativo e ao setor financeiro.
 
