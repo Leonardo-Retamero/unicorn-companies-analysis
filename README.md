@@ -103,12 +103,12 @@ Para apoiar as análises exploratórias e a construção das visualizações, fo
 
 ---
 
-### 💪🏽 Desafios encontrados
+### 💪🏽 Desafios Encontrados
 
 Durante a análise exploratória e o tratamento da base de dados alguns desafios precisaram ser resolvidos:
 
-- Durante a importação da base de dados ocorreu um erro onde alguns registros da coluna de investidores estavam ausentes, tive que buscar cada empresa que estava com valores ausentes dos investidores e utilizar um filtro em python para preencher esses valores com as respectivas informações dos seus investidores.
-- Para a realização de análises por investidores, tive que criar uma função em python para separar cada investidor em uma linha porque cada empresa poderia ter mais de um investidor em uma mesma linha separados por vírgula.
+- A coluna Investors apresentava registros ausentes. Para preservar essas empresas na análise, as informações foram complementadas por meio de consulta à fonte de dados utilizada.
+- A coluna Investors armazenava múltiplos investidores em uma única célula. Foi necessário transformar essa estrutura para que cada investidor ocupasse um registro individual, permitindo análises por investidor.
 
 ---
 
