@@ -43,7 +43,7 @@ Este projeto busca explorar o ecossistema global de empresas unicórnio por meio
 
 - Qual é a distribuição de empresas unicórnio por continente?
 
-- Quais setores mais cresceram nos últimos anos?
+- Quais setores apresentaram maior crescimento acumulado entre 2020 e 2026?
 
 - Quais investidores possuem o maior número de investimentos em empresas unicórnio?
 
