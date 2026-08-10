@@ -162,7 +162,7 @@ Esta visualização mostra o valor total de valuation (em bilhões de dólares) 
 
 Principais insights:
 
-- O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo a forte demanda por soluções voltadas à transformação digital e à gestão corporativa.
+- O elevado valuation concentrado no setor de Tecnologia Empresarial demonstra sua importância estratégica, refletindo um forte valor por soluções voltadas à transformação digital e à gestão corporativa.
 
 - Alguns setores possuem menos empresas, mas alto valuation médio por companhia.
 
@@ -220,7 +220,7 @@ Principais insights:
 
 ### 6️⃣ Evolução Acumulada de Empresas Unicórnio – Top 5 Cidades
 
-Este gráfico mostra a evolução acumulada do número de empresas unicórnio ao longo do tempo para as 5 principais cidades.
+Analisar como a concentração de unicórnios evoluiu ao longo do tempo nas principais cidades.
 
 Principais insights:
 
@@ -250,7 +250,7 @@ Esta visualização apresenta o número de novas empresas unicórnio criadas a c
 
 Principais insights:
 
-- O recorde de empresas unicórnio em 2021 foi impulsionado pela aceleração da transformação digital durante a pandemia, pelo aumento da liquidez global e pelo elevado volume de investimentos em Venture Capital. A partir de 2022, o aumento das taxas de juros, a inflação global e a desaceleração econômica reduziram a disponibilidade de capital para startups, diminuindo significativamente o número de novas empresas avaliadas em mais de US$ 1 bilhão.
+- O recorde de empresas unicórnio em 2021 foi impulsionado pela transformação digital acelerada na pandemia, pela liquidez global e pelo volume histórico de aportes em Venture Capital. A partir de 2022, esse cenário reverteu, a inflação global e a consequente alta dos juros encareceram o crédito e reduziram o capital disponível. Isso desacelerou o mercado de startups e encolheu o surgimento de novas empresas avaliadas acima de US$ 1 bilhão.
 
 <img width="901" height="456" alt="image" src="https://github.com/user-attachments/assets/0b67d6d1-8dd7-4f19-a906-f1c938a9c2eb" />
 
@@ -286,9 +286,9 @@ Principais insights:
 
 ### 1️⃣1️⃣ Top 10 Investidores por Quantidade de Empresas
 
-Esta visualização apresenta os investidores com o maior número de participações em empresas unicórnio, evidenciando os principais atores do ecossistema global de Venture Capital.
+Identificar os investidores com o maior número de participações em empresas unicórnio, evidenciando os principais atores do ecossistema global de Venture Capital.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - Andreessen Horowitz, Accel e Sequoia Capital lideram o ranking, demonstrando forte presença no financiamento de startups de alto potencial de crescimento.
 
@@ -300,9 +300,9 @@ Principais insights:
 
 ### 1️⃣2️⃣ Top 10 Cidades com Maior Número de Empresas Unicórnio
 
-Esta visualização apresenta as cidades que concentram o maior número de empresas unicórnio, evidenciando os principais hubs globais de inovação e empreendedorismo tecnológico.
+**🎯 Objetivo da análise:** Identificar as cidades que concentram o maior número de empresas unicórnio e destacar os principais hubs globais de inovação.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - San Francisco lidera o ranking com ampla vantagem, consolidando-se como o principal polo mundial de startups de alto valor de mercado, impulsionado pelo ecossistema do Vale do Silício.
 
@@ -310,7 +310,7 @@ Principais insights:
 
 - Beijing, Shanghai e Shenzhen demonstram a força do ecossistema chinês de startups, posicionando a China como a principal potência tecnológica fora dos Estados Unidos.
 
-- A forte concentração de empresas unicórnio em poucas cidades demonstra que ecossistemas maduros, com acesso a capital de risco, talentos qualificados e infraestrutura tecnológica, desempenham papel fundamental no surgimento de startups de alto valor de mercado.
+- As 10 principais cidades concentram aproximadamente 45% das empresas unicórnio da base, evidenciando uma forte concentração geográfica do ecossistema.
 
 <img width="931" height="458" alt="image" src="https://github.com/user-attachments/assets/3c374952-0cc9-47f5-a76d-166e870e91ac" />
 
