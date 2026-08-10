@@ -204,9 +204,9 @@ Principais insights:
 
 ### 5️⃣ Linha do Tempo das Primeiras Empresas Unicórnio
 
-Esta visualização apresenta as primeiras empresas a atingirem o status de unicórnio, organizadas ao longo do tempo e coloridas por país.
+**🎯 Objetivo da análise:** Analisar o surgimento das primeiras empresas unicórnio e observar como o fenômeno começou a se distribuir geograficamente ao longo dos anos.
 
-Principais insights:
+**🧠 Principais insights:**
 
 - As primeiras empresas unicórnio surgiram entre 2007 e 2013, marcando o início da consolidação do ecossistema global de startups de alto valor de mercado.
 
@@ -220,7 +220,7 @@ Principais insights:
 
 ### 6️⃣ Evolução Acumulada de Empresas Unicórnio – Top 5 Cidades
 
-**🎯 Objetivo da análise:** Analisar como a concentração de unicórnios evoluiu ao longo do tempo nas principais cidades.
+**🎯 Objetivo da análise:** Acompanhar a evolução da concentração de empresas unicórnio nas principais cidades e comparar o crescimento desses hubs ao longo do período analisado.
 
 **🧠 Principais insights:**
 
