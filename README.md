@@ -4,6 +4,8 @@
 
 Este projeto apresenta uma análise exploratória do ecossistema global de empresas unicórnio, desde as etapas de tratamento e preparação dos dados até a construção de um dashboard interativo. A análise utiliza dados sobre startups privadas avaliadas em US$ 1 bilhão ou mais, abrangendo o período de 2007 a 2026.
 
+O projeto busca compreender como essas empresas estão distribuídas entre diferentes setores, países, continentes e cidades, além de analisar os principais investidores e a evolução do ecossistema ao longo do tempo. Também são avaliadas as variações anuais do valuation, os períodos de maior expansão ou retração e a concentração de valor entre diferentes regiões e setores. A análise permite ainda destacar os principais hubs globais de inovação e empreendedorismo.
+
 O projeto foi desenvolvido seguindo um fluxo de Análise de Dados, envolvendo etapas de exploração, limpeza, tratamento, transformação e agregação dos dados, seguidas pela criação de visualizações para identificar padrões, tendências e concentrações no ecossistema global de startups. Os resultados da análise foram apresentados por meio de um dashboard desenvolvido com Python, Plotly e Streamlit, permitindo explorar os principais indicadores e insights de forma visual.
 
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://unicorn-companies-analysis.streamlit.app/)
