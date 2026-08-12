@@ -2,7 +2,7 @@
 
 ### 📌 Visão Geral do Projeto
 
-Este projeto apresenta uma análise exploratória do ecossistema global de empresas unicórnio, desde a etapa de tratamento e preparação dos dados até a construção de um dashboard interativo, utilizando dados reais sobre startups privadas avaliadas em USD 1 bilhão ou mais. O objetivo é explorar como essas empresas estão distribuídas por setores, países, cidades e ao longo do tempo. 
+Este projeto apresenta uma análise exploratória do ecossistema global de empresas unicórnio, desde a etapa de tratamento e preparação dos dados até a construção de um dashboard utilizando dados reais sobre startups privadas avaliadas em USD 1 bilhão ou mais. A análise abrange o período de 2007 a 2026 e busca compreender como essas empresas estão distribuídas entre diferentes setores, países, continentes e cidades, identificar os maiores investidores, países e cidades com mais empresas unicórnio, avaliar a evolução desse ecossistema ao longo do tempo, descobrir quais setores e regiões estão concentrado os maiores valuation e destacar os principais hubs globais de inovação e empreendedorismo.
 
 O dashboard foi desenvolvido utilizando Python, Pandas, Plotly e Streamlit, com foco em visualizações interativas, clareza na comunicação dos dados e geração de insights de negócio.
 
