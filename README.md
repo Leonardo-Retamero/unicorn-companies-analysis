@@ -8,6 +8,8 @@ O projeto busca compreender como essas empresas estão distribuídas entre difer
 
 O desenvolvimento seguiu um fluxo completo de Análise de Dados, envolvendo etapas de exploração, limpeza, tratamento, transformação e agregação dos dados. A partir dessas etapas, foram desenvolvidas visualizações para identificar padrões, tendências e concentrações no ecossistema global de startups.
 
+Os resultados foram apresentados por meio de um dashboard desenvolvido com Python, Plotly e Streamlit, permitindo explorar os principais indicadores, análises e insights de forma visual e dinâmica.
+
 ### 🔗 [Acesse o Dashboard pelo Streamlit](https://unicorn-companies-analysis.streamlit.app/)
 ### ⛲ [Fonte de Dados: CB Insights](https://www.cbinsights.com/research-unicorn-companies?)
 
