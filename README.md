@@ -152,7 +152,6 @@ Visão geral do mercado de empresas unicórnio analisado, destacando seu valuati
 
 <img width="1746" height="128" alt="image" src="https://github.com/user-attachments/assets/a1a0b1de-c6ab-44c8-93ce-c5ef0a7c7ac9" />
 
-
 ---
 
 ### 1️⃣ Total de Empresas Unicórnio por Setor
