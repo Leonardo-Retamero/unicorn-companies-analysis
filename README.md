@@ -146,6 +146,13 @@ Após a análise exploratória foi possível encontrar insights relevantes:
 
 ---
 
+### 📊 Indicadores Gerais
+
+<img width="1746" height="128" alt="image" src="https://github.com/user-attachments/assets/a1a0b1de-c6ab-44c8-93ce-c5ef0a7c7ac9" />
+
+
+---
+
 ### 1️⃣ Total de Empresas Unicórnio por Setor
 
 **🎯 Objetivo da análise:** Analisar a distribuição das empresas unicórnio entre os diferentes setores e identificar aqueles que concentram a maior quantidade de empresas.
