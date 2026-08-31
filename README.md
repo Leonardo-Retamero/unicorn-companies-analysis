@@ -33,7 +33,7 @@ Este projeto busca explorar o ecossistema global de empresas unicórnio por meio
 
 - Quais setores apresentam o maior valor total de valuation?
 
-- Quais países lideram em quantidade de unicórnios e em valor total?
+- Quais países lideram em quantidade de unicórnios e valuation?
 
 - Quais foram as primeiras empresas a se tornar unicórnio?
 
